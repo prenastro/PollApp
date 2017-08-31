@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1842C7C2-05D2-4CC5-B723-55291302D358}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>pollAp</RootNamespace>
+    <AssemblyName>pollAp</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <TargetFrameworkProfile>WindowsPhone71</TargetFrameworkProfile>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>pollAp.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>pollAp.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Phone" />
+    <Reference Include="Microsoft.Phone.Controls, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Interop" />
+    <Reference Include="System.Device" />
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Xml" />
+    <Reference Include="mscorlib.extensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="askPage.xaml.cs">
+      <DependentUpon>askPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="createAccount.xaml.cs">
+      <DependentUpon>createAccount.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="creditsPage.xaml.cs">
+      <DependentUpon>creditsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="deletePage.xaml.cs">
+      <DependentUpon>deletePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="guestLogin.xaml.cs">
+      <DependentUpon>guestLogin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="helpPage.xaml.cs">
+      <DependentUpon>helpPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="mainPage.xaml.cs">
+      <DependentUpon>mainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.xaml.cs">
+      <DependentUpon>Menu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="myBuzzPage.xaml.cs">
+      <DependentUpon>myBuzzPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="profileQuestionPage.xaml.cs">
+      <DependentUpon>profileQuestionPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="k.xaml.cs">
+      <DependentUpon>k.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="questionPage.xaml.cs">
+      <DependentUpon>questionPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="suggestQuestionPage.xaml.cs">
+      <DependentUpon>suggestQuestionPage.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="askPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="createAccount.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="creditsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="deletePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="guestLogin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="helpPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="mainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Menu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="k.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="myBuzzPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="profileQuestionPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="questionPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="suggestQuestionPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\WMAppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\answered.jpg" />
+    <Resource Include="Images\suggest.jpg" />
+    <Resource Include="Images\buzzout.jpg" />
+    <Resource Include="Images\blue_power_button-1280x720.jpg" />
+    <Resource Include="Images\power.jpg" />
+    <Content Include="Images\webWall.jpg" />
+    <Resource Include="Images\webWall.png" />
+    <Resource Include="Background.png" />
+    <Content Include="Images\200x200.png" />
+    <Content Include="Images\booksWall.jpg" />
+    <Content Include="Images\miscellaneousWall.jpg" />
+    <Content Include="Images\shoppingWall.jpg" />
+    <Content Include="Images\societyWall.jpg" />
+    <Content Include="Images\tourismWall.jpg" />
+    <Content Include="Images\sportsWall.png" />
+    <Resource Include="99x99.png" />
+    <Content Include="ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\title.jpg" />
+    <Resource Include="Images\Untitled-1.png" />
+    <Resource Include="Images\tap.png" />
+    <Resource Include="Images\title.png" />
+    <Resource Include="Images\Sports.png" />
+    <Resource Include="Images\Entertainment.png" />
+    <Resource Include="Images\current affairs.png" />
+    <Resource Include="Images\Technology.png" />
+    <Resource Include="Images\Health.png" />
+    <Resource Include="Images\Scifi.png" />
+    <Resource Include="Images\Restaurant.png" />
+    <Content Include="Images\add.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\automobiles.png" />
+    <Resource Include="Images\books1.jpg" />
+    <Resource Include="Images\business.jpg" />
+    <Resource Include="Images\back.png" />
+    <Content Include="Images\appbar.back.rest.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\appbar.next.rest.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\layt1.png" />
+    <Resource Include="Images\fbButton.jpg" />
+    <Content Include="Images\appbar.questionmark.rest.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\appbar.people.1.rest.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\g9reozl.jpg" />
+    <Resource Include="Images\appbar.questionmark.rest1.png" />
+    <Resource Include="Images\back.jpg" />
+    <Content Include="Images\automobilesWall.jpg" />
+    <Content Include="Images\businessWall.jpg" />
+    <Content Include="Images\entertainmentWall.jpg" />
+    <Content Include="Images\gadgetsWall.jpg" />
+    <Content Include="Images\healthWall.jpg" />
+    <Content Include="Images\Logo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\science.png" />
+    <Resource Include="Images\misc.jpg" />
+    <Resource Include="Images\next.png" />
+    <Content Include="Images\restaurantsWall.jpg" />
+    <Content Include="Images\scienceWall.jpg" />
+    <Content Include="Images\search.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\addtofav.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\start.png" />
+    <Resource Include="Images\shop.jpg" />
+    <Resource Include="Images\tourism.jpg" />
+    <Resource Include="Images\society.png" />
+    <Resource Include="Images\web1.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

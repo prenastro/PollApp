@@ -1,0 +1,171 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="pollAp.Menu"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" shell:SystemTray.IsVisible="True" d:DesignHeight="768" d:DesignWidth="480" Loaded="PhoneApplicationPage_Loaded">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+
+      
+        <controls:Pivot Title="Buzz">
+
+            <controls:PivotItem Header="Get Active!">
+                <ScrollViewer>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <Image Height="150" HorizontalAlignment="Left" Margin="20,25,0,25" Name="Sports" Stretch="Fill" VerticalAlignment="Top" Width="200" Source="/pollAp;component/Images/Sports.png" Tap="Sports_Tap" />
+                        <TextBlock Height="40" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="0" Name="sportsTextBlock" Text="Sports" VerticalAlignment="Top" Width="230" FontSize="30" TextAlignment="Center" Tap="Sports_Tap" FontFamily="Arial" Margin="0,25,0,15" />
+                        <TextBlock Height="30" HorizontalAlignment="Left" Grid.Column="1" Grid.Row="0" Name="mostPopularSports" Text="Most Popular" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="mostPopularSports_Tap" Margin="0,80,0,15" FontSize="24" />
+                        <TextBlock Height="32" HorizontalAlignment="Left" Grid.Column="1" Grid.Row="0" Name="latestSports" Text="Latest" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="latestSports_Tap" Margin="0,125,0,15" FontSize="24" />
+                        
+                        <Image Height="150" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Left" Margin="20,25,0,25" Name="Entertainment" Stretch="Fill" VerticalAlignment="Top" Width="200" Source="/pollAp;component/Images/Entertainment.png" Tap="Entertainment_Tap" />
+                        <TextBlock FontSize="30" Grid.Column="1" Grid.Row="1" Height="36" HorizontalAlignment="Center" Name="entertainmentTextBlock" Text="Entertainment" TextAlignment="Center" VerticalAlignment="Top" Width="237" Tap="Entertainment_Tap" FontFamily="Arial" Margin="0,25,0,15" />
+                        <TextBlock Margin="0,80,0,15" Height="30" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Left" Name="mostPopularEntertainment" Text="Most Popular" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="mostPopularEntertainment_Tap" FontSize="24" />
+                        <TextBlock Margin="0,125,0,15" Height="32" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Left" Name="latestEntertainment" Text="Latest" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="latestEntertainment_Tap" FontSize="24" />
+                        
+                        <Image Margin="20,25,0,25" Height="150" Grid.Column="0" Grid.Row="2" HorizontalAlignment="Left" Name="Restaurants" Stretch="Fill" VerticalAlignment="Top" Width="200" Source="/pollAp;component/Images/Restaurant.png" Tap="Restaurants_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="2" Margin="0,25,0,15" FontSize="30" Height="34" HorizontalAlignment="Center" Name="restaurantsTextBlock" Text="Restaurants" TextAlignment="Center" VerticalAlignment="Top" Width="214" Tap="Restaurants_Tap" FontFamily="Arial" />
+                        <TextBlock Grid.Column="1" Grid.Row="2" Margin="0,80,0,15" Height="30" HorizontalAlignment="Left" Name="mostPopularRestaurants" Text="Most Popular" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="mostPopularRestaurants_Tap" FontSize="24" />
+                        <TextBlock Grid.Column="1" Grid.Row="2" Margin="0,125,0,15" Height="32" HorizontalAlignment="Left" Name="latestRestaurants" Text="Latest" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="latestRestaurants_Tap" FontSize="24" />
+                       
+                        <Image Margin="20,25,0,25" Height="150" Grid.Column="0" Grid.Row="3" HorizontalAlignment="Left" Name="Gadgets" Stretch="Fill" VerticalAlignment="Top" Width="200" Source="/pollAp;component/Images/Technology.png" Tap="Gadgets_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="3" Margin="0,25,0,15" FontSize="30" Height="55" HorizontalAlignment="Center" Name="gadgetsTextBlock" Text="Gadgets" TextAlignment="Center" VerticalAlignment="Top" Width="214" Tap="Gadgets_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="3" Margin="0,80,0,15" Height="30" HorizontalAlignment="Left" Name="mostPopularGadgets" Text="Most Popular" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="mostPopularGadgets_Tap" FontSize="24" />
+                        <TextBlock Grid.Column="1" Grid.Row="3" Margin="0,125,0,15" Height="32" HorizontalAlignment="Left" Name="latestGadgets" Text="Latest" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="latestGadgets_Tap" FontSize="24" />
+                       
+                        <Image Margin="20,25,0,25" Height="150" Grid.Column="0" Grid.Row="4" HorizontalAlignment="Left" Name="Health" Stretch="Fill" VerticalAlignment="Top" Width="200" Source="/pollAp;component/Images/Health.png" Tap="Health_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="4" Margin="0,25,0,15" FontSize="30" Height="55" HorizontalAlignment="Center" Name="healthTextBlock" Text="Health" TextAlignment="Center" VerticalAlignment="Top" Width="214" Tap="Health_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="4" Margin="0,80,0,15" Height="30" HorizontalAlignment="Left" Name="mostPopularHealth" Text="Most Popular" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="mostPopularHealth_Tap" FontSize="24" />
+                        <TextBlock Grid.Column="1" Grid.Row="4" Margin="0,125,0,15" Height="32" HorizontalAlignment="Left" Name="latestHealth" Text="Latest" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="latestHealth_Tap" FontSize="24" />
+                        
+                        <Image Margin="20,25,0,25" Height="150" Grid.Column="0" Grid.Row="5" HorizontalAlignment="Left" Name="Science" Stretch="Fill" VerticalAlignment="Top" Width="200" Source="/pollAp;component/Images/science.png" Tap="Science_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="5" Margin="0,25,0,15" FontSize="30" Height="55" HorizontalAlignment="Center" Name="scienceTextBlock" Text="Science" TextAlignment="Center" VerticalAlignment="Top" Width="214" Tap="Science_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="5" Margin="0,80,0,15" Height="30" HorizontalAlignment="Left" Name="mostPopularScience" Text="Most Popular" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="mostPopularScience_Tap" FontSize="24" />
+                        <TextBlock Grid.Column="1" Grid.Row="5" Margin="0,125,0,15" Height="32" HorizontalAlignment="Left" Name="latestScience" Text="Latest" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="latestScience_Tap" FontSize="24" />
+                        
+                        <Image Margin="20,25,0,25" Height="150" Grid.Column="0" Grid.Row="6" HorizontalAlignment="Left" Name="Automobiles" Stretch="Fill" VerticalAlignment="Top" Width="200" Source="/pollAp;component/Images/automobiles.png" Tap="Automobiles_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="6" Margin="0,25,0,15" FontSize="30" Height="55" HorizontalAlignment="Center" Name="automobilesTextBlock" Text="Automobiles" TextAlignment="Center" VerticalAlignment="Top" Width="214" Tap="Automobiles_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="6" Margin="0,80,0,15" Height="30" HorizontalAlignment="Left" Name="mostPopularAutomobiles" Text="Most Popular" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="mostPopularAutomobiles_Tap" FontSize="24" />
+                        <TextBlock Grid.Column="1" Grid.Row="6" Margin="0,125,0,15" Height="32" HorizontalAlignment="Left" Name="latestAutomobiles" Text="Latest" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="latestAutomobiles_Tap" FontSize="24" />
+                        
+                        <Image Margin="20,25,0,25" Height="150" Grid.Column="0" Grid.Row="7" HorizontalAlignment="Left" Name="Shopping" Stretch="Fill" VerticalAlignment="Top" Width="200" Source="/pollAp;component/Images/shop.jpg" Tap="Shopping_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="7" Margin="0,25,0,15" FontSize="30" Height="55" HorizontalAlignment="Center" Name="shoppingTextBlock" Text="Shopping" TextAlignment="Center" VerticalAlignment="Top" Width="214" Tap="Shopping_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="7" Margin="0,80,0,15" Height="30" HorizontalAlignment="Left" Name="mostPopularShopping" Text="Most Popular" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="mostPopularShopping_Tap" FontSize="24" />
+                        <TextBlock Grid.Column="1" Grid.Row="7" Margin="0,125,0,15" Height="32" HorizontalAlignment="Left" Name="latestShopping" Text="Latest" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="latestShopping_Tap" FontSize="24" />
+                        
+                        <Image Margin="20,25,0,25" Height="150" Grid.Column="0" Grid.Row="8" HorizontalAlignment="Left" Name="Books" Stretch="Fill" VerticalAlignment="Top" Width="200" Source="/pollAp;component/Images/books1.jpg" Tap="Books_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="8" Margin="0,25,0,15" FontSize="30" Height="55" HorizontalAlignment="Center" Name="booksTextBlock" Text="Books" TextAlignment="Center" VerticalAlignment="Top" Width="214" Tap="Books_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="8" Margin="0,80,0,15" Height="30" HorizontalAlignment="Left" Name="mostPopularBooks" Text="Most Popular" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="mostPopularBooks_Tap" FontSize="24" />
+                        <TextBlock Grid.Column="1" Grid.Row="8" Margin="0,125,0,15" Height="32" HorizontalAlignment="Left" Name="latestBooks" Text="Latest" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="latestBooks_Tap" FontSize="24" />
+                        
+                        <Image Margin="20,25,0,25" Height="150" Grid.Column="0" Grid.Row="9" HorizontalAlignment="Left" Name="Tourism" Stretch="Fill" VerticalAlignment="Top" Width="200" Source="/pollAp;component/Images/tourism.jpg" Tap="Tourism_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="9" Margin="0,25,0,15" FontSize="30" Height="55" HorizontalAlignment="Center" Name="tourismTextBlock" Text="Tourism" TextAlignment="Center" VerticalAlignment="Top" Width="214" Tap="Tourism_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="9" Margin="0,80,0,15" Height="30" HorizontalAlignment="Left" Name="mostPopularTourism" Text="Most Popular" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="mostPopularTourism_Tap" FontSize="24" />
+                        <TextBlock Grid.Column="1" Grid.Row="9" Margin="0,125,0,15" Height="32" HorizontalAlignment="Left" Name="latestTourism" Text="Latest" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="latestTourism_Tap" FontSize="24" />
+                        
+                        <Image Margin="20,25,0,25" Height="150" Grid.Column="0" Grid.Row="10" HorizontalAlignment="Left" Name="Society" Stretch="Fill" VerticalAlignment="Top" Width="200" Source="/pollAp;component/Images/society.png" Tap="Society_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="10" Margin="0,25,0,15" FontSize="30" Height="55" HorizontalAlignment="Center" Name="societyTextBlock" Text="Society" TextAlignment="Center" VerticalAlignment="Top" Width="214" Tap="Society_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="10" Margin="0,80,0,15" Height="30" HorizontalAlignment="Left" Name="mostPopularSociety" Text="Most Popular" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="mostPopularSociety_Tap" FontSize="24" />
+                        <TextBlock Grid.Column="1" Grid.Row="10" Margin="0,125,0,15" Height="32" HorizontalAlignment="Left" Name="latestSociety" Text="Latest" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="latestSociety_Tap" FontSize="24" />
+                       
+                        <Image Margin="20,25,0,25" Height="150" Grid.Column="0" Grid.Row="11" HorizontalAlignment="Left" Name="Business" Stretch="Fill" VerticalAlignment="Top" Width="200" Source="/pollAp;component/Images/business.jpg" Tap="Business_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="11" Margin="0,25,0,15" FontSize="30" Height="55" HorizontalAlignment="Center" Name="businessTextBlock" Text="Business" TextAlignment="Center" VerticalAlignment="Top" Width="214" Tap="Business_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="11" Margin="0,80,0,15" Height="30" HorizontalAlignment="Left" Name="mostPopularBusiness" Text="Most Popular" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="mostPopularBusiness_Tap" FontSize="24" />
+                        <TextBlock Grid.Column="1" Grid.Row="11" Margin="0,125,0,15" Height="32" HorizontalAlignment="Left" Name="latestBusiness" Text="Latest" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="latestBusiness_Tap" FontSize="24" />
+                       
+                        <Image Margin="20,25,0,25" Height="150" Grid.Column="0" Grid.Row="12" HorizontalAlignment="Left" Name="Web" Stretch="Fill" VerticalAlignment="Top" Width="200" Source="/pollAp;component/Images/web1.jpg" Tap="Web_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="12" Margin="0,25,0,15" FontSize="30" Height="55" HorizontalAlignment="Center" Name="webTextBlock" Text="Web" TextAlignment="Center" VerticalAlignment="Top" Width="214" Tap="Web_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="12" Margin="0,80,0,15" Height="30" HorizontalAlignment="Left" Name="mostPopularWeb" Text="Most Popular" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="mostPopularWeb_Tap" FontSize="24" />
+                        <TextBlock Grid.Column="1" Grid.Row="12" Margin="0,125,0,15" Height="32" HorizontalAlignment="Left" Name="latestWeb" Text="Latest" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="latestWeb_Tap" FontSize="24" />
+                        
+                        <Image Margin="20,25,0,25" Height="150" Grid.Column="0" Grid.Row="13" HorizontalAlignment="Left" Name="Miscellaneous" Stretch="Fill" VerticalAlignment="Top" Width="200" Source="/pollAp;component/Images/misc.jpg" Tap="Miscellaneous_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="13" Margin="0,25,0,15" FontSize="30" Height="55" HorizontalAlignment="Center" Name="miscellaneousTextBlock" Text="Miscellaneous" TextAlignment="Center" VerticalAlignment="Top" Width="214" Tap="Miscellaneous_Tap" />
+                        <TextBlock Grid.Column="1" Grid.Row="13" Margin="0,80,0,15" Height="30" HorizontalAlignment="Left" Name="mostPopularMiscellaneous" Text="Most Popular" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="mostPopularMiscellaneous_Tap" FontSize="24" />
+                        <TextBlock Grid.Column="1" Grid.Row="13" Margin="0,125,0,15" Height="32" HorizontalAlignment="Left" Name="latestMiscellaneous" Text="Latest" VerticalAlignment="Top" Width="230" TextAlignment="Center" Tap="latestMiscellaneous_Tap" FontSize="24" />
+                 
+                    </Grid>
+                </ScrollViewer>
+
+            </controls:PivotItem>
+            <controls:PivotItem Header="Profile">
+
+                <Grid >
+                 
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="250" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="125"/>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="125"/>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="221*" />
+                    </Grid.RowDefinitions>
+                   
+                    <Image Grid.Column="1" Grid.Row="0" Height="125" HorizontalAlignment="Left" Margin="0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="250" Source="/pollAp;component/Images/answered.jpg" Grid.ColumnSpan="2" Grid.RowSpan="2" Tap="image1_Tap" />
+                    <Image Grid.Column="1" Grid.Row="2" Height="Auto" HorizontalAlignment="Left" Margin="3,4,0,0" Name="image2" Stretch="Fill" VerticalAlignment="Top" Width="Auto" Source="/pollAp;component/Images/suggest.jpg" Tap="image2_Tap" />
+                    <TextBlock Grid.Column="1" Grid.Row="1" Height="Auto" HorizontalAlignment="Left" Margin="5,1,0,0" Name="answeredTextBlock" Text="Answered Buzz" VerticalAlignment="Top" Width="246" Grid.ColumnSpan="2" FontSize="26" TextAlignment="Center" Tap="answeredTextBlock_Tap" />
+                    <TextBlock FontSize="26" Height="Auto" HorizontalAlignment="Left" Margin="3,1,0,0" Name="suggestTextBlock" Text="Suggest a Buzz" TextAlignment="Center" VerticalAlignment="Top" Width="246" Grid.Column="1" Grid.Row="3" Tap="suggestTextBlock_Tap" />
+                    <TextBlock Grid.Row="4" Height="46" HorizontalAlignment="Left" Margin="1,127,0,0" Name="logoutTextBlock" Text="Buzz Out" VerticalAlignment="Top" Width="247" FontSize="25" TextAlignment="Center" Tap="logoutTextBlock_Tap_1" Grid.Column="1" />
+                    <Image Grid.Row="4" Height="126" HorizontalAlignment="Left" Margin="102,0,0,0" Name="image3" Stretch="Fill" VerticalAlignment="Top" Width="250" Source="/pollAp;component/Images/power.jpg" Tap="image3_Tap" Grid.ColumnSpan="2" />
+                    <Button Content="More Apps" Grid.Column="1" Grid.Row="4" Height="66" HorizontalAlignment="Left" Margin="179,202,0,0" Name="button2" VerticalAlignment="Top" Width="161" Grid.ColumnSpan="2" FontSize="22" BorderThickness="1" Click="button2_Click" />
+                </Grid>
+               
+            </controls:PivotItem>
+
+
+
+        </controls:Pivot>
+        <Button Content="Help" Height="67" HorizontalAlignment="Left" Margin="354,-3,0,0" Name="button1" VerticalAlignment="Top" Width="126" FontSize="22" BorderThickness="0" Click="button1_Click" />
+        <TextBlock Height="30" HorizontalAlignment="Right" Margin="0,20,12,0" Name="textBlock1" Text="" VerticalAlignment="Top" Width="468" TextAlignment="Center" />
+        <!--ContentPanel - place additional content here-->
+    </Grid>
+
+
+   
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

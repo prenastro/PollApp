@@ -1,0 +1,452 @@
+e:\my files\documents\visual studio 2010\Projects\pollAp\pollAp\Bin\Debug\ApplicationIcon.png
+e:\my files\documents\visual studio 2010\Projects\pollAp\pollAp\Bin\Debug\Background.png
+e:\my files\documents\visual studio 2010\Projects\pollAp\pollAp\Bin\Debug\pollAp.dll
+e:\my files\documents\visual studio 2010\Projects\pollAp\pollAp\Bin\Debug\pollAp.pdb
+e:\my files\documents\visual studio 2010\Projects\pollAp\pollAp\Bin\Debug\AppManifest.xaml
+e:\my files\documents\visual studio 2010\Projects\pollAp\pollAp\Bin\Debug\pollAp.xap
+e:\my files\documents\visual studio 2010\Projects\pollAp\pollAp\obj\Debug\ResolveAssemblyReference.cache
+e:\my files\documents\visual studio 2010\Projects\pollAp\pollAp\obj\Debug\App.g.i.cs
+e:\my files\documents\visual studio 2010\Projects\pollAp\pollAp\obj\Debug\MainPage.g.i.cs
+e:\my files\documents\visual studio 2010\Projects\pollAp\pollAp\obj\Debug\pollAp.g.resources
+e:\my files\documents\visual studio 2010\Projects\pollAp\pollAp\obj\Debug\pollAp.dll
+e:\my files\documents\visual studio 2010\Projects\pollAp\pollAp\obj\Debug\pollAp.pdb
+e:\my files\documents\visual studio 2010\Projects\pollAp\pollAp\obj\Debug\XapCacheFile.xml
+e:\my files\documents\visual studio 2010\Projects\pollAp\pollAp\Bin\Debug\Microsoft.Phone.Controls.dll
+e:\my files\documents\visual studio 2010\Projects\pollAp\pollAp\Bin\Debug\Microsoft.Phone.Controls.xml
+e:\my files\documents\visual studio 2010\Projects\pollAp\pollAp\obj\Debug\Menu.g.i.cs
+e:\My Files\Documents\Visual Studio 2010\Projects\pollAp\pollAp\obj\Debug\CurrentAffairs.g.i.cs
+e:\My Files\Documents\Visual Studio 2010\Projects\pollAp\pollAp\obj\Debug\Entertainment.g.i.cs
+e:\My Files\Documents\Visual Studio 2010\Projects\pollAp\pollAp\obj\Debug\Health.g.i.cs
+e:\My Files\Documents\Visual Studio 2010\Projects\pollAp\pollAp\obj\Debug\SciFi.g.i.cs
+e:\My Files\Documents\Visual Studio 2010\Projects\pollAp\pollAp\obj\Debug\Technology.g.i.cs
+e:\My Files\Documents\Visual Studio 2010\Projects\pollAp\pollAp\obj\Debug\Sports.g.i.cs
+e:\My Files\Documents\Visual Studio 2010\Projects\pollAp\pollAp\Bin\Debug\Images\search.png
+e:\My Files\Documents\Visual Studio 2010\Projects\pollAp\pollAp\Bin\Debug\Images\addtofav.png
+e:\My Files\Documents\Visual Studio 2010\Projects\pollAp\pollAp\Bin\Debug\Images\add.png
+e:\My Files\Documents\Visual Studio 2010\Projects\pollAp\pollAp\obj\Debug\askPage.g.i.cs
+e:\My Files\Documents\Visual Studio 2010\Projects\pollAp\pollAp\Bin\Debug\Images\Logo.png
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\Bin\Debug\ApplicationIcon.png
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\Bin\Debug\Background.png
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\Bin\Debug\Images\add.png
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\Bin\Debug\Images\Logo.png
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\Bin\Debug\Images\search.png
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\Bin\Debug\Images\addtofav.png
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\Bin\Debug\pollAp.dll
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\Bin\Debug\pollAp.pdb
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\Bin\Debug\AppManifest.xaml
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\Bin\Debug\pollAp.xap
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\ResolveAssemblyReference.cache
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\App.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\askPage.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\Entertainment.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\Health.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\Menu.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\Sports.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\pollAp.g.resources
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\pollAp.dll
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\pollAp.pdb
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\XapCacheFile.xml
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\createAccount.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\loginPage.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\Automobiles.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\Science.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\Books.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\Shopping.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\Society.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\Tourism.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\Business.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\Gadgets.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\Miscellaneous.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\Restaurants.g.i.cs
+E:\My Files\Documents\Visual Studio 2010\Projects\pollAp 1_1\pollAp\obj\Debug\Web.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\Bin\Debug\ApplicationIcon.png
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\Bin\Debug\Background.png
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\Bin\Debug\Images\add.png
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\Bin\Debug\Images\Logo.png
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\Bin\Debug\Images\search.png
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\Bin\Debug\Images\addtofav.png
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\Bin\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\Bin\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\Bin\Debug\AppManifest.xaml
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\Bin\Debug\pollAp.xap
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\obj\Debug\App.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\obj\Debug\askPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\obj\Debug\Books.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\obj\Debug\createAccount.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\obj\Debug\loginPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\obj\Debug\Menu.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\obj\Debug\questionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\obj\Debug\pollAp.g.resources
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\obj\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\obj\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\obj\Debug\XapCacheFile.xml
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_1\pollAp\Bin\Debug\Images\appbar.next.rest.png
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\Bin\Debug\ApplicationIcon.png
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\Bin\Debug\Background.png
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\Bin\Debug\Images\add.png
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.next.rest.png
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\Bin\Debug\Images\Logo.png
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\Bin\Debug\Images\search.png
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\Bin\Debug\Images\addtofav.png
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\Bin\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\Bin\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\Bin\Debug\AppManifest.xaml
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\Bin\Debug\pollAp.xap
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\obj\Debug\App.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\obj\Debug\askPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\obj\Debug\createAccount.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\obj\Debug\loginPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\obj\Debug\Menu.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\obj\Debug\questionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\obj\Debug\pollAp.g.resources
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\obj\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\obj\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\pollAp 1_2\pollAp\obj\Debug\XapCacheFile.xml
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\Bin\Debug\ApplicationIcon.png
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\Bin\Debug\Background.png
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\Bin\Debug\Images\add.png
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.next.rest.png
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\Bin\Debug\Images\Logo.png
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\Bin\Debug\Images\search.png
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\Bin\Debug\Images\addtofav.png
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\Bin\Debug\pollAp.dll
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\Bin\Debug\pollAp.pdb
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\Bin\Debug\AppManifest.xaml
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\Bin\Debug\pollAp.xap
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\obj\Debug\App.g.i.cs
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\obj\Debug\askPage.g.i.cs
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\obj\Debug\createAccount.g.i.cs
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\obj\Debug\loginPage.g.i.cs
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\obj\Debug\Menu.g.i.cs
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\obj\Debug\questionPage.g.i.cs
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\obj\Debug\pollAp.g.resources
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\obj\Debug\pollAp.dll
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\obj\Debug\pollAp.pdb
+C:\Users\Aparna\Desktop\pollAp 1_2\pollAp\obj\Debug\XapCacheFile.xml
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\ApplicationIcon.png
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Background.png
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\add.png
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.next.rest.png
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\Logo.png
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\search.png
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\addtofav.png
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\AppManifest.xaml
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.xap
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\App.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\askPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\createAccount.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\loginPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\Menu.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\questionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.g.resources
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\XapCacheFile.xml
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\ApplicationIcon.png
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Background.png
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\add.png
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.next.rest.png
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\Logo.png
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\search.png
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\addtofav.png
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.dll
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.pdb
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\AppManifest.xaml
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.xap
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\App.g.i.cs
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\askPage.g.i.cs
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\createAccount.g.i.cs
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\loginPage.g.i.cs
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\Menu.g.i.cs
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\questionPage.g.i.cs
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.g.resources
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.dll
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.pdb
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\XapCacheFile.xml
+C:\Users\SIDDU\Desktop\Latest\pollAp 1_2\pollAp\obj\Debug\k.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\Bin\Debug\ApplicationIcon.png
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\Bin\Debug\Background.png
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\add.png
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.next.rest.png
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\Logo.png
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\search.png
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\addtofav.png
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\Bin\Debug\AppManifest.xaml
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.xap
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\obj\Debug\App.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\obj\Debug\askPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\obj\Debug\createAccount.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\obj\Debug\loginPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\obj\Debug\Menu.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\obj\Debug\k.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\obj\Debug\questionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.g.resources
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\new ui latest\Latest\pollAp 1_2\pollAp\obj\Debug\XapCacheFile.xml
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\Bin\Debug\ApplicationIcon.png
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\Bin\Debug\Background.png
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\add.png
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.next.rest.png
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\Logo.png
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\search.png
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\addtofav.png
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\Bin\Debug\AppManifest.xaml
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.xap
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\obj\Debug\App.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\obj\Debug\askPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\obj\Debug\createAccount.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\obj\Debug\loginPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\obj\Debug\Menu.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\obj\Debug\k.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\obj\Debug\questionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.g.resources
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\obj\Debug\XapCacheFile.xml
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\obj\Debug\fbLogin.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\obj\Debug\helpPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\obj\Debug\guestLogin.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test\Latest\pollAp 1_2\pollAp\obj\Debug\mainLogin.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\ApplicationIcon.png
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Background.png
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\add.png
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.next.rest.png
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\Logo.png
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\search.png
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\addtofav.png
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\AppManifest.xaml
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.xap
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\App.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\askPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\createAccount.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\fbLogin.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\guestLogin.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\helpPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\mainLogin.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\Menu.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\k.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\questionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.g.resources
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\XapCacheFile.xml
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.questionmark.rest.png
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.people.1.rest.png
+C:\Users\NITISH PRABHU\Desktop\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\creditsPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\ApplicationIcon.png
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Background.png
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\add.png
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.next.rest.png
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.questionmark.rest.png
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.people.1.rest.png
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\Logo.png
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\search.png
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\addtofav.png
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\AppManifest.xaml
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.xap
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\App.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\askPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\createAccount.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\creditsPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\fbLogin.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\guestLogin.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\helpPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\mainLogin.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\Menu.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\k.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\questionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.g.resources
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\XapCacheFile.xml
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\myBuzzPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\suggestQuestionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\profileQuestionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\deletePage.g.i.cs
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\ApplicationIcon.png
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Background.png
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\add.png
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.back.rest.png
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.next.rest.png
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.questionmark.rest.png
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.people.1.rest.png
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\Logo.png
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\search.png
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\addtofav.png
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.dll
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.pdb
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\AppManifest.xaml
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.xap
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\ResolveAssemblyReference.cache
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\App.g.i.cs
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\askPage.g.i.cs
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\createAccount.g.i.cs
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\creditsPage.g.i.cs
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\deletePage.g.i.cs
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\fbLogin.g.i.cs
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\guestLogin.g.i.cs
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\helpPage.g.i.cs
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\mainLogin.g.i.cs
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\Menu.g.i.cs
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\k.g.i.cs
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\myBuzzPage.g.i.cs
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\profileQuestionPage.g.i.cs
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\questionPage.g.i.cs
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\suggestQuestionPage.g.i.cs
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.g.resources
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.dll
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.pdb
+E:\My Files\Documents\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\XapCacheFile.xml
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\App.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\askPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\createAccount.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\creditsPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\deletePage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\guestLogin.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\helpPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\Menu.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\k.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\myBuzzPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\profileQuestionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\questionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\suggestQuestionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.g.resources
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\ApplicationIcon.png
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\add.png
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.next.rest.png
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.questionmark.rest.png
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.people.1.rest.png
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\Logo.png
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\search.png
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\addtofav.png
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\AppManifest.xaml
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.xap
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\XapCacheFile.xml
+C:\Users\NITISH PRABHU\Desktop\Final app\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\mainPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\ApplicationIcon.png
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\add.png
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.next.rest.png
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.questionmark.rest.png
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.people.1.rest.png
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\Logo.png
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\search.png
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\addtofav.png
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\AppManifest.xaml
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.xap
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\App.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\askPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\createAccount.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\creditsPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\deletePage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\guestLogin.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\helpPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\mainPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\Menu.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\k.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\myBuzzPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\profileQuestionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\questionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\suggestQuestionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.g.resources
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\XapCacheFile.xml
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\ApplicationIcon.png
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\add.png
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.back.rest.png
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.next.rest.png
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.questionmark.rest.png
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\appbar.people.1.rest.png
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\Logo.png
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\search.png
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Images\addtofav.png
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\AppManifest.xaml
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\pollAp.xap
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\App.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\askPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\createAccount.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\creditsPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\deletePage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\guestLogin.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\helpPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\mainPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\Menu.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\k.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\myBuzzPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\profileQuestionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\questionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\suggestQuestionPage.g.i.cs
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.g.resources
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.dll
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\pollAp.pdb
+C:\Users\NITISH PRABHU\Desktop\Buzz Final Backup\Final app - Copy\The app\fb test - Copy\Latest\pollAp 1_2\pollAp\obj\Debug\XapCacheFile.xml

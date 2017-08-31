@@ -1,0 +1,100 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="pollAp.questionPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True" Loaded="PhoneApplicationPage_Loaded">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="Buzz" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="Questions" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+       
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Image HorizontalAlignment="Left" Name="CategoryImage" Stretch="Fill" Width="Auto" VerticalAlignment="Top" Opacity="0.6" />
+            <ScrollViewer>
+                <Grid>
+                    
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="60"/>
+                            <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                   
+                    
+                    <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Height="Auto" HorizontalAlignment="Left" Margin="15,0,0,0" Name="mainTextBlock" Text="" VerticalAlignment="Top" Width="417" FontSize="32" TextWrapping="Wrap" />
+
+                    <RadioButton Grid.Row="1" Grid.Column="0" Height="Auto" HorizontalAlignment="Left" Margin="0,5,0,0" Name="ans1RadioButton" VerticalAlignment="Top" Width="58" Checked="ans1RadioButton_Checked" />
+                    <TextBlock Grid.Row="1" Grid.Column="1" Height="Auto" HorizontalAlignment="Left" Margin="0,20,0,0" Name="ans1TextBlock" Text="" VerticalAlignment="Top" Width="390" TextWrapping="Wrap" FontSize="28" Tap="ans1TextBlock_Tap" />
+
+                    <TextBlock Grid.Row="2" Grid.Column="1" Height="Auto" HorizontalAlignment="Left" Margin="0,20,0,0" Name="ans2TextBlock" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="390" FontSize="28" Tap="ans2TextBlock_Tap" />
+                    <RadioButton Grid.Row="2" Grid.Column="0" Height="Auto" HorizontalAlignment="Left" Margin="0,5,0,0" Name="ans2RadioButton" VerticalAlignment="Top" Width="58" Checked="ans2RadioButton_Checked" />
+
+                    <TextBlock Grid.Row="3" Grid.Column="1" Height="Auto" HorizontalAlignment="Left" Margin="0,20,0,0" Name="ans3TextBlock" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="390" FontSize="28" Tap="ans3TextBlock_Tap" />
+                    <RadioButton Grid.Row="3" Grid.Column="0" Height="Auto" HorizontalAlignment="Left" Margin="0,5,0,0" Name="ans3RadioButton" VerticalAlignment="Top" Width="58" Checked="ans3RadioButton_Checked" />
+
+                    <TextBlock Grid.Row="4" Grid.Column="1" Height="Auto" HorizontalAlignment="Left" Margin="0,20,0,0" Name="ans4TextBlock" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="390" FontSize="28" Tap="ans4TextBlock_Tap" />
+                    <RadioButton Grid.Row="4" Grid.Column="0" Height="Auto" HorizontalAlignment="Left" Margin="0,5,0,0" Name="ans4RadioButton" VerticalAlignment="Top" Width="58" Checked="ans4RadioButton_Checked" />
+
+                    <TextBlock Grid.Row="5" Grid.Column="1" Height="Auto" HorizontalAlignment="Left" Margin="0,20,0,0" Name="ans5TextBlock" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="390" FontSize="28" Tap="ans5TextBlock_Tap" />
+                    <RadioButton Grid.Row="5" Grid.Column="0" Height="Auto" HorizontalAlignment="Left" Margin="0,5,0,0" Name="ans5RadioButton" VerticalAlignment="Top" Width="58" Checked="ans5RadioButton_Checked" />
+
+                </Grid>
+            </ScrollViewer>
+        </Grid>
+        
+    </Grid>
+    
+    
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="False" Mode="Minimized" Opacity="0.8" >
+
+            <shell:ApplicationBarIconButton Text="Help" IconUri="/Images/appbar.questionmark.rest.png" Click="appBarHelp" />
+
+            <shell:ApplicationBarIconButton Text="Credits" IconUri="/Images/appbar.people.1.rest.png" Click="appBarCredits" />
+
+            
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>
